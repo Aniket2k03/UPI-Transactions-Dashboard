@@ -57,7 +57,7 @@ Developed an interactive Power BI dashboard to analyze UPI transaction data for 
 ---
 
 ## 📂 Project Files
-- UPI_Transactions_Dashboard.pbix  
+- Upi_Transactions_dashboard.pbix  
 
 ---
 
